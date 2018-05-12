@@ -1,0 +1,36 @@
+_repo: The-Cruise-of-the-ThetisA-Tale-of-the-Cuban-Insurrection_21075
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Cuneo, Cyrus
+    birthdate: 1879
+    deathdate: 1916
+    gutenberg_agent_id: '9717'
+    url: http://www.gutenberg.org/2009/agents/9717
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Collingwood, Harry
+    alias: Lancaster, William Joseph Cosens
+    birthdate: 1851
+    deathdate: 1922
+    gutenberg_agent_id: '9699'
+    url: http://www.gutenberg.org/2009/agents/9699
+description: ''
+gutenberg_bookshelf: Spanish American War
+gutenberg_issued: '2007-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21075'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Sea stories'
+- !lcsh 'Cuba -- History -- 1810-1899 -- Juvenile fiction'
+title: 'The Cruise of the Thetis: A Tale of the Cuban Insurrection'
+url: http://www.gutenberg.org/ebooks/21075
